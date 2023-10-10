@@ -1,0 +1,322 @@
+@font-face {
+    font-family:  hammad ;
+    src: url('./Anton-Regular.ttf');
+}
+
+
+
+#top-img {
+    position: relative;
+    top: 25px;
+    padding-left: 15px;
+    height: 60px;
+    width: 150px;
+    
+}
+
+.links {
+    text-decoration: none;
+    color: black;
+    padding-left: 35px;
+    font-weight: 900;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.links:hover {
+    color: rgb(69, 226, 69);
+}
+
+
+div>nav {
+    position: sticky;
+    top: 0;
+    background-color: white; 
+    margin-top: -20px;
+    padding-bottom: 20px;
+    margin: -20px;
+    border-bottom: 3px solid silver;
+    
+    
+}
+
+
+#inp{
+    background-image: url(./search.jpg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 25px;
+    padding-left: 30px;
+    margin-left: 350px;
+    border-radius: 30px;
+    width: 230px;
+    height: 30px;
+    border: 2px solid silver;
+    
+}
+
+
+
+
+
+#Login {
+
+    border-radius: 30px;
+    width: 80px;
+    height: 40px;
+    border: none;
+
+}
+
+#signup {
+
+    border-radius: 30px;
+    background-color: rgb(69, 226, 69);
+    font-weight: bolder;
+    color: white;
+    width: 80px;
+    height: 40px;
+    border: none;
+
+}
+
+#button{
+    padding-left: 30px;
+}
+
+
+#data {
+    margin-top: 50px;
+    
+}
+
+.link{
+    text-decoration: none;
+    margin-left: 30px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.link:hover{
+    color: rgb(69, 226, 69);
+}
+
+#select{
+    border: none;
+    border: 2px solid white;
+    
+}
+
+
+
+div>h1{
+    color:rgb(69, 226, 69);
+    margin-left: 200px;
+    font-size: 80px;
+    margin-bottom: 1px;
+}
+
+div>p{
+    
+    margin-left: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-top: -450px;
+    padding-top  : 280px;
+    
+}
+
+
+
+#free{
+    margin-left: 900px;
+    margin-top: -230px; 
+    
+}
+
+#started{
+    margin-left: 200px ;
+    margin-top: 30px;
+    border: 2px silver;
+    background-color:rgb(69, 226, 69) ;
+    height: 60px;
+    width: 200px;
+    border-radius: 50px;
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+#trusted{
+    display: block;
+    margin-left: 200px;
+    padding-top: 40px;
+}
+
+#gif{
+    margin-left: 200px;
+    margin-top: 100px ;
+    height: 305px;
+    /* width: 500px; */
+    /* padding-right: 100px; */
+    /* padding: -80px; */
+
+    
+}
+
+#game{
+    margin-left: 750px;
+    margin-top: -320px;
+    padding-bottom: 12px;
+    
+    font-weight: 700;
+    font-size: 40px;
+    font-family: 'hammad';
+    word-spacing: 10px;
+}
+
+p>h1,h6{
+    margin-left: 750px;
+    margin-top: -20px;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span>h1{
+    margin-left: 750px;
+    margin-top: -50px;
+    text-transform: capitalize;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+ 
+#job{
+    padding-top: 30px;
+
+}
+
+#work{
+    padding-top: 30px;
+}
+
+#gif-sign{
+    margin-left: 750px;
+    border: 3px  silver;
+    background-color: rgb(69, 226, 69);
+    width: 250px;
+    height: 40px;
+    border-radius: 40px;
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-top: -100px;
+}
+
+#gif-hire{
+    border: 3px  silver;
+    width: 250px;
+    height: 40px;
+    border-radius: 40px;
+    color: black;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-top: -100px;
+
+}
+
+#footer{
+  color: black;
+  font-size: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-top: 20px;
+}
+ 
+.looking-for-jobs{
+    margin-left: 200px;
+    font-size: medium;
+    font-weight: bolder;
+    margin-top: -250px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#card{
+    margin-left: 200px;
+    
+    
+}
+
+#cardd{
+    margin-left: 200px;
+    
+    
+}
+
+.cards{
+    border: 2px solid rgb(248, 244, 244);
+    width: 300px;
+    height: 200px;
+    margin: 4px;
+    border-radius: 25px;
+
+    
+    
+}
+
+.cardss{
+    
+    color: black;
+    text-decoration: none;
+    font-size: x-large;
+}
+
+.cards:hover{
+    background-color: grey;
+    transform: scale(1.2);
+}
+
+#AI{
+    margin-left: 200px;
+    width: 1245px;
+    margin-top: 80px;
+    border: 3px solid white;
+    border-radius: 25px;
+    height: 600px;
+
+}
+
+
+#img-para{
+    margin-top: -850px;
+    margin-left: 250px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+}
+
+#footer-button{
+    margin-left: 190px ;
+    
+}
+
+#footer-button>button{
+    width: 300px;
+    height: 180px;
+    margin-left: 90px;
+    margin-top: 240px;
+    border: 2px  aqua;
+    background-color: rgb(11, 121, 11);
+    border-radius: 25px;
+    color: white;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+ div>#footer-button>.green:hover{
+    background-color: white;
+    color:rgb(11, 121, 11);
+}
+
